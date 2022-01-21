@@ -1,1 +1,6 @@
-# Dart Pemula Youtube Programmer Zaman Now
+# Belajar Dart Untuk Pemula
+
+## Referensi 
+  * Programmer zaman now
+  * Erico Darmawan Handoyo
+  * Build With Angga
