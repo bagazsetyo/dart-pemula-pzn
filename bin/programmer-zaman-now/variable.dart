@@ -23,7 +23,8 @@ void main() {
   final array1 = [1, 2, 3];
   const array2 = [1, 2, 3];
 
-  array1[0] = 44;
+  // array1[0] = 44;
+  array1 = [0,0,0];
   // array2[0] = 44; //error
 
   print(array1);
